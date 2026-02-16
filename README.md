@@ -121,5 +121,8 @@ The dataset simulates an international e-commerce business operating in:
 🟢Here are the screenshots of my project:
    >Show the what dashboard look like(Page1): ![alt text](https://github.com/anupyadav1769/Power_Bi_Dashboard/blob/main/client%208%20Dashboard_ScreenShot.png)
 
-   >And here are the (Page 2):
+   >And here are the (Page 2):![alt text](https://github.com/anupyadav1769/Power_Bi_Dashboard/blob/main/Client%208%20Page%202%20Screenshots)
+
+
+
    
