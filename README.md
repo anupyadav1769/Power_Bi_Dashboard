@@ -118,4 +118,7 @@ The dataset simulates an international e-commerce business operating in:
             > Electronics is the lowest sale count in a year.
             > I used clustered column chart to show the product category by yearly.
 
+🟢Here are the screenshots of my project:
+   >Show the what dashboard look like(Page1):
+   >And here are the (Page 2):
    
